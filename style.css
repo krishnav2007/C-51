@@ -1,0 +1,42 @@
+h1{
+    color:lime;
+}
+
+.header{
+    background-color:navy;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.Allgames{
+display:flex;
+flex-wrap: wrap;
+justify-content: space-between;
+
+}
+.SocialMedia{
+display:flex;    
+justify-content:flex-end;
+}
+h2,p{
+ text-align: center;   
+}
+body{
+background-color:greenyellow;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
